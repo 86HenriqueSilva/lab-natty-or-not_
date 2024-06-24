@@ -41,6 +41,7 @@ Trabalhar com IAs Generativas foi um desafio excitante e educativo. O projeto de
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+(https://www.youtube.com/watch?v=F3qVsgYoorE)
+(https://www.youtube.com/watch?v=QXBdPXAGGZE)
+(https://www.youtube.com/watch?v=o2eech-UefU)
+(https://www.youtube.com/watch?v=owr9pli_3CI&list=PL4ATMVZU3CjzssyiW1MKhBS5b-B3VLxkQ)
